@@ -1,0 +1,9 @@
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\bin\Debug\CarGame.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\bin\Debug\CarGame.pdb
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\bin\Debug\CarGame.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\obj\x86\Debug\CarGame.Form1.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\obj\x86\Debug\CarGame.Resources.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\obj\x86\Debug\CarGame.vbproj.GenerateResource.Cache
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\obj\x86\Debug\CarGame.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\obj\x86\Debug\CarGame.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Buku\Game\CarGame\CarGame\obj\x86\Debug\CarGame.pdb
